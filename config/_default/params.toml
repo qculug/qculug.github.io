@@ -1,0 +1,95 @@
+# Meta Data for SEO
+
+## Homepage
+title = "LUG@QCU"
+titleSeparator = "-"
+titleAddition = "青岛城市学院 Linux 用户组"
+description = "是一个尚未正式成立的团体，旨在联合学院内的 GNU/Linux 使用者、极客、黑客与科技爱好者，搭建一个信息交流的平台"
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["favicon.ico"]
+ogLocale = "zh_CN"
+domainTLD = "qculug.github.io"
+titleHome = "LUG@QCU Web"
+
+## Twitter Cards
+twitterSite = ""
+twitterCreator = ""
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "Doks"
+schemaAuthor = "Henk Verlinde"
+schemaAuthorTwitter = ""
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = "https://github.com/qculug"
+schemaLocale = "zh-CN"
+schemaLogo = "favicon.ico"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "favicon.ico"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/qculug/qculug.github.io"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Footer
+footer = "Copyright (c) 2021 - 2022 LUG@QCU"
+
+# Feed
+copyRight = "Copyright (c) 2021 - 2022 LUG@QCU"
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+#alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/qculug/qculug.github.io"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = false
+lastMod = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true
