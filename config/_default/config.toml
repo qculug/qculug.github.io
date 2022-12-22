@@ -1,4 +1,5 @@
-baseurl = "https://qculug.github.io/"
+#baseurl = "https://qculug.github.io/"
+baseurl = "https://qculug.org/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

@@ -12,7 +12,8 @@ description = "是一个尚未正式成立的团体，旨在联合学院内的 G
 ## Open Graph
 images = ["favicon.ico"]
 ogLocale = "zh_CN"
-domainTLD = "qculug.github.io"
+#domainTLD = "qculug.github.io"
+domainTLD = "qculug.org"
 titleHome = "LUG@QCU Web"
 
 ## Twitter Cards
