@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://qculug.github.io/sitemap.xml
+Sitemap: https://qculug.org/sitemap.xml
